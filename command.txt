@@ -9,7 +9,8 @@ git commite -m "messages"
 git log
 git log --oneline
 git restore
-git rm --cached 
+git rm --cached
+git checkout -b dev 
 git config --global user.name "prasad"
 git config --global user.email "nsk@gmail.com"
 
