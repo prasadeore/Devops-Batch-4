@@ -1,0 +1,16 @@
+
+
+
+
+git init
+git add .
+git status
+git commite -m "messages"
+git log
+git log --oneline
+git restore
+git rm --cached 
+git config --global user.name "prasad"
+git config --global user.email "nsk@gmail.com"
+
+
